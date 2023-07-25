@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Blend for Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HongDuFast", "HongDuFast.csproj", "{6B8210FA-1605-42C6-B2F2-F92DDDC613DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HongDuFast", "HongDuFast.csproj", "{DC0B3F5F-895A-4308-A2BB-A3B4160229B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6B8210FA-1605-42C6-B2F2-F92DDDC613DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B8210FA-1605-42C6-B2F2-F92DDDC613DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B8210FA-1605-42C6-B2F2-F92DDDC613DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B8210FA-1605-42C6-B2F2-F92DDDC613DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0B3F5F-895A-4308-A2BB-A3B4160229B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0B3F5F-895A-4308-A2BB-A3B4160229B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0B3F5F-895A-4308-A2BB-A3B4160229B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0B3F5F-895A-4308-A2BB-A3B4160229B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5178EC53-CAA5-4410-B73F-6AA0B9D97F6E}
+		SolutionGuid = {28FEC1EE-7C09-4C3A-8964-F6E05036F813}
 	EndGlobalSection
 EndGlobal
