@@ -1,0 +1,12 @@
+D:\C#ProJect\HongDuFast\HongDuFast\bin\Debug\HongDuFast.exe.config
+D:\C#ProJect\HongDuFast\HongDuFast\bin\Debug\HongDuFast.exe
+D:\C#ProJect\HongDuFast\HongDuFast\bin\Debug\HongDuFast.pdb
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.csproj.AssemblyReference.cache
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.csproj.SuggestedBindingRedirects.cache
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.BeginForm.resources
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.Properties.Resources.resources
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.csproj.GenerateResource.cache
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.csproj.CoreCompileInputs.cache
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.exe
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.pdb
+D:\C#ProJect\HongDuFast\HongDuFast\obj\Debug\HongDuFast.Views.HuJianZuForm.resources
